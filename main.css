@@ -1,0 +1,11 @@
+.line {
+    display: flex;
+    column-gap: 6px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    align-items: center;
+    font-size: 26px;
+    font-weight: 2600px;
+}
